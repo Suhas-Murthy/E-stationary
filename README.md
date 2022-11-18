@@ -72,19 +72,28 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 
 
 <!-- for implementation -->
+### `Run Commands on Terminal` you must run this codes before starting with the projects`
 
-### `Run Commands on Terminal` you must run this codes before starting with the projects
-### At start make a folder and open that folder in the V.S.CODE OR ANY OTHER CODE EDITORS ###
+### create a react-app
+`npx create react-app project _name`
 
+### replacing src folder and index.html with the folder given in the repository.
+1.Delete the folder name src in project directory and paste the folder from this repository named as src.
+2.Go to the project directory, public>index.html and replace that .html file with index.html file that has been given in repository.
 
-### installing React Bootstrap
+### start the development server
+`npm start`
+
+### Start installing the packages and dependencies.
+### installing bootstrap
 `npm install react-bootstrap bootstrap`
 
-### installing Firebase for the Database
+### installing Firebase for the database
 `npm install firebase`
 
-### installing React Router for routing the pages
+### installing React Router for routing pages
 `npm install react-router-dom@5.1.2`
 
 ### finally Run The Code with 
 `npm start`
+
