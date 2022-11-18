@@ -72,17 +72,19 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 
 
 <!-- for implementation -->
-### `Run Commands on Terminal` you must run this codes before starting with the projects
 
-### installing bootstrap
+### `Run Commands on Terminal` you must run this codes before starting with the projects
+### At start make a folder and open that folder in the V.S.CODE OR ANY OTHER CODE EDITORS ###
+
+
+### installing React Bootstrap
 `npm install react-bootstrap bootstrap`
 
-### installing Firebase for the database
+### installing Firebase for the Database
 `npm install firebase`
 
-### installing React Router for routing pages
+### installing React Router for routing the pages
 `npm install react-router-dom@5.1.2`
 
 ### finally Run The Code with 
 `npm start`
-
